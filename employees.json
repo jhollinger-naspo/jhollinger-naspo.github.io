@@ -1,16 +1,10 @@
 {
-"name": "Ian Devling",
-"imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg",
+"name": "Lindle Hatton",
+"imageUrl": "https://www.naspo.org/portals/16/adam/Content/zdc8DnjOwEOUzxKsdS7kmw/Photo/Hatton.png",
 "area": "Corporate",
 "profileUrl": "http://example.com/employee/profile",
 "office": "CTO office",
-"tags": "Ceo,tag1,manager,cto",
-"isLoggedUser": false,
-"unit": {
-"type": "business",
-"value": "Business first"
-},
-"positionName": "Cheaf Executive Officer ",
+"positionName": "CEO",
 "children": [
 {
 "name": "Davolio Nancy",
